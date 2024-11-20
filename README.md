@@ -55,3 +55,9 @@ The dataset includes the following fields:
 ## Conclusion
 
 This project provides a comprehensive analysis of video game sales and highlights key factors influencing market performance.
+---
+![2024-11-20 14_57_04-Video Games Sales Dashboard pdf - Foxit PDF Reader](https://github.com/user-attachments/assets/c3298ef0-a59d-46cb-b13d-8d2cd28f743f)
+
+![2024-11-20 14_57_09-Video Games Sales Dashboard pdf - Foxit PDF Reader](https://github.com/user-attachments/assets/4bb4f4e3-5e49-4086-af97-d5e5c5ca8c5d)
+
+
