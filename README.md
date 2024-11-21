@@ -1,6 +1,3 @@
-# Video-Games-Sales-Dashboard
-Power BI Dashboard project to analyze video games sales
-
 # Video Game Sales Analysis Dashboard
 
 This project focuses on analyzing video game sales across various regions and platforms, offering insights into sales trends, user ratings, critic feedback, and more.
